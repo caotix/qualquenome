@@ -10,8 +10,8 @@ faz um sorteio e logo compara a quantidade de acertos.
 
 ### Melhorias possíveis
 1. [x] Subir no github pages
-2. [] Trocar o Alert pra mensagens mais amigaveis
-3. [] Realizar teste para descobrir bugs 🕸
+2. [ ] Trocar o Alert pra mensagens mais amigaveis
+3. [ ] Realizar teste para descobrir bugs 🕸
 
 ### disponivel em:
 [GithubPage](https://caotix.github.io/qualquenome/)
