@@ -3,9 +3,9 @@ um simulador de loteria que pega 6 números escolhidos pelo usuário
 faz um sorteio e logo compara a quantidade de acertos.
 
 ##Tecnologias utilizadas
- -**HTML:** Estrutura do site
- -**CSS:** Estilos do site
- -**JS:** Funções do site
+ - **HTML:** Estrutura do site
+ - **CSS:** Estilos do site
+ - **JS:** Funções do site
  - ~~BootStrap~~: Não foi utilizado
 
 ### Melhorias possíveis
