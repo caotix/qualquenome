@@ -1,6 +1,13 @@
 var numsort = []
 var numdig = []
+
 function sorteioNum(){
+    if(numdig.length < 6){
+        alert("antes de sortear digite 6 numeros nos campos")
+    }else{
+
+
+    
     numsort = []
     do{
 
@@ -12,6 +19,8 @@ function sorteioNum(){
     }while(numsort.length<6);
 
     document.getElementById("numsort").innerHTML = numsort
+    verificaacertos()
+}
 }
 
 function getNum(valor,pos){
